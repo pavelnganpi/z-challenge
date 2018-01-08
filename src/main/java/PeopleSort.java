@@ -1,8 +1,6 @@
-import com.sun.org.apache.xerces.internal.xs.datatypes.ObjectList;
 import pojo.Person;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
 

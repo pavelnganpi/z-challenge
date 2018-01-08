@@ -1,9 +1,11 @@
-import com.google.gson.Gson;
 import org.junit.Before;
 import org.junit.Test;
 import pojo.Person;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Date;
+import java.util.GregorianCalendar;
+import java.util.List;
 
 import static junit.framework.TestCase.assertEquals;
 
